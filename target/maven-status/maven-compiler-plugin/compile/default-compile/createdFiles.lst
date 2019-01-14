@@ -1,0 +1,11 @@
+fr\allemandg\freezercatalogAPI\food\FoodCriteriaRepositoryImpl.class
+fr\allemandg\freezercatalogAPI\exceptions\PreconditionFailedException.class
+fr\allemandg\freezercatalogAPI\food\FoodController.class
+fr\allemandg\freezercatalogAPI\food\FoodService.class
+fr\allemandg\freezercatalogAPI\food\FoodRepository.class
+fr\allemandg\freezercatalogAPI\FreezerCatalogApiApplication.class
+fr\allemandg\freezercatalogAPI\food\Food.class
+fr\allemandg\freezercatalogAPI\food\FoodCriteriaRepository.class
+fr\allemandg\freezercatalogAPI\util\AbstractJPARepository.class
+fr\allemandg\freezercatalogAPI\exceptions\NotFoundException.class
+fr\allemandg\freezercatalogAPI\food\Type.class
